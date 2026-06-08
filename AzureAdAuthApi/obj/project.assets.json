@@ -1589,23 +1589,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NIKHILESH G\\.nuget\\packages\\": {},
+    "C:\\Users\\NikhileshGolla\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NIKHILESH G\\Downloads\\AzureAdAuthApi (3)\\AzureAdAuthApi.csproj",
+      "projectUniqueName": "C:\\Users\\NikhileshGolla\\Desktop\\Csharp\\azure-ad-auth-api\\AzureAdAuthApi\\AzureAdAuthApi.csproj",
       "projectName": "AzureAdAuthApi",
-      "projectPath": "C:\\Users\\NIKHILESH G\\Downloads\\AzureAdAuthApi (3)\\AzureAdAuthApi.csproj",
-      "packagesPath": "C:\\Users\\NIKHILESH G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NIKHILESH G\\Downloads\\AzureAdAuthApi (3)\\obj\\",
+      "projectPath": "C:\\Users\\NikhileshGolla\\Desktop\\Csharp\\azure-ad-auth-api\\AzureAdAuthApi\\AzureAdAuthApi.csproj",
+      "packagesPath": "C:\\Users\\NikhileshGolla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NikhileshGolla\\Desktop\\Csharp\\azure-ad-auth-api\\AzureAdAuthApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\NIKHILESH G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NikhileshGolla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1614,6 +1614,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

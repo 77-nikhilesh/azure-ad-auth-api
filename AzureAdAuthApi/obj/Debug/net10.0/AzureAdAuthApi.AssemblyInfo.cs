@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureAdAuthApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a6cc8c61e2062f44b903eabfe0bf03fd1e42b46")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureAdAuthApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureAdAuthApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

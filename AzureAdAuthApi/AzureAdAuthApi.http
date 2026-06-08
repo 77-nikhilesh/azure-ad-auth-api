@@ -1,6 +1,0 @@
-@AzureAdAuthApi_HostAddress = http://localhost:5070
-
-GET {{AzureAdAuthApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
